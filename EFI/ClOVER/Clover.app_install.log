@@ -1,0 +1,37 @@
+
+Clover 安装器 r5118 (v1.1.2), 2020-05-24 03:13:45
+macOS 版本10.15.4（版号19E287）
+SELF = /Applications/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/jitech/Desktop/CloverBackUp/SSDSC2BB480G4I 00AJ011 00AJ014IBM Media/r5115_2020-05-24_03-13-13/EFI.
+Target volume: /Volumes/Untitled
+BSD Name:      disk1s2
+Filesystem:    FAT16
+Is internal:   true
+Is writable:   true
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
++ ../UEFI/AudioDxe.efi
++ ../UEFI/DataHubDxe.efi
++ ../UEFI/FSInject.efi
++ ../UEFI/SMCHelper.efi
++ ../UEFI/ApfsDriverLoader.efi
++ ../UEFI/AptioMemoryFix.efi
++ ../UEFI/EmuVariableUefi.efi
++ ../BIOS/AudioDxe.efi
++ ../BIOS/FSInject.efi
++ ../BIOS/SMCHelper.efi
++ ../BIOS/XhciDxe.efi
++ ../BIOS/ApfsDriverLoader.efi
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
